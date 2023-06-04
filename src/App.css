@@ -1,0 +1,24 @@
+* {
+  font-family: monospace;
+}
+
+.container {
+  background-color: white;
+}
+
+.headerContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 15px 5px 15px;
+  border: 1px solid #3a3a41;
+  background-color: #3a3a41;
+  color: white;
+}
+
+.bodyContainer {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 5px 5px 0 5px;
+  border: unset;
+}
